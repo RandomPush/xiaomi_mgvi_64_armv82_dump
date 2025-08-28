@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Assist library for NXP OSU extensions. -->
+<permissions>
+    <library name="com.nxp.osu"
+        file="/product/framework/com.nxp.osu.jar" />
+</permissions>

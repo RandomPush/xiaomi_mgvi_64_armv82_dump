@@ -1,0 +1,133 @@
+{
+  "localId": "760b11e4-edb9-44a1-91e8-a9c5b1eba390",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "1748ab767237a7147d0edf669ba71607a54458d8",
+  "platform": 10,
+  "size": 8520303,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "Mi Themes"
+  },
+  "designers": {
+    "fallback": "Mi Themes"
+  },
+  "titles": {
+    "fallback": "POCO"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_lockscreen_mask_0.jpg",
+      "en_US_launcher_mask_0.jpg",
+      "en_US_launcher_mask_1.jpg",
+      "en_US_statusbar_mask_0.jpg",
+      "en_US_statusbar_mask_1.jpg",
+      "en_US_statusbar_mask_2.jpg",
+      "en_US_contact_0.jpg",
+      "en_US_mms_0.jpg",
+      "en_US_mms_1.jpg",
+      "en_US_fonts_small_0.png",
+      "en_US_fonts_0.jpg",
+      "en_US_fonts_1.jpg",
+      "en_US_fonts_2.jpg",
+      "en_US_fonts_mask_3.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_mask_0.jpg",
+      "preview_launcher_mask_0.jpg",
+      "preview_launcher_mask_1.jpg",
+      "preview_statusbar_mask_0.jpg",
+      "preview_statusbar_mask_1.jpg",
+      "preview_statusbar_mask_2.jpg",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg",
+      "preview_icons_small_mask_0.jpg",
+      "preview_icons_mask_0.jpg",
+      "preview_icons_mask_1.jpg",
+      "preview_fonts_small_0.png",
+      "preview_fonts_0.jpg",
+      "preview_fonts_1.jpg",
+      "preview_fonts_2.jpg",
+      "preview_fonts_mask_3.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_lockscreen_mask_0.jpg",
+      "en_US_launcher_mask_0.jpg",
+      "en_US_launcher_mask_1.jpg",
+      "en_US_statusbar_mask_0.jpg",
+      "en_US_statusbar_mask_1.jpg",
+      "en_US_statusbar_mask_2.jpg",
+      "en_US_contact_0.jpg",
+      "en_US_mms_0.jpg",
+      "en_US_mms_1.jpg",
+      "en_US_fonts_0.jpg",
+      "en_US_fonts_1.jpg",
+      "en_US_fonts_2.jpg",
+      "en_US_fonts_mask_3.jpg"
+    ],
+    "fallback": [
+      "preview_lockscreen_mask_0.jpg",
+      "preview_launcher_mask_0.jpg",
+      "preview_launcher_mask_1.jpg",
+      "preview_statusbar_mask_0.jpg",
+      "preview_statusbar_mask_1.jpg",
+      "preview_statusbar_mask_2.jpg",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg",
+      "preview_icons_mask_0.jpg",
+      "preview_icons_mask_1.jpg",
+      "preview_fonts_0.jpg",
+      "preview_fonts_1.jpg",
+      "preview_fonts_2.jpg",
+      "preview_fonts_mask_3.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "c57fc90e-423f-4014-af52-7ff2aac73993",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c9591564-4233-4eff-98c7-da0b93e5a4c9",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "a4090447-ed11-4c77-a4a6-b37252d04212",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "2.0"
+}

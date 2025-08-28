@@ -1,0 +1,56 @@
+{
+  "localId": "c57fc90e-423f-4014-af52-7ff2aac73993",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "b0aad1c6de0cc4f5963d9bbe86e1ff658f968043",
+  "platform": 10,
+  "size": 125662,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "Mi Themes"
+  },
+  "designers": {
+    "fallback": "Mi Themes"
+  },
+  "titles": {
+    "fallback": "POCO"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [],
+    "fallback": []
+  },
+  "builtInPreviews": {
+    "en_US": [],
+    "fallback": []
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "760b11e4-edb9-44a1-91e8-a9c5b1eba390",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "2.0"
+}
